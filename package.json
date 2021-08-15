@@ -1,5 +1,5 @@
 {
-  "name": "popmotion",
+  "name": "popmotion-test",
   "version": "1.0.0",
   "description": "popmotion test",
   "main": "animation.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/victorvianaom/popmotion/issues"
   },
-  "homepage": "https://github.com/victorvianaom/popmotion#readme"
+  "homepage": "https://github.com/victorvianaom/popmotion#readme",
+  "dependencies": {
+    "popmotion": "^8.3.3"
+  }
 }
